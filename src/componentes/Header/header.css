@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 70vh;
+}
+
+header h1 {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img {
+    width: 212vh;
+    height: 60vh;
+}
+

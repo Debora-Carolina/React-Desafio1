@@ -1,0 +1,27 @@
+footer {
+        height: 40vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #252B69ff;
+}
+
+footer h2 {
+    color: yellow;
+}
+    
+section {
+    width: 50vh;
+    height: 40vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+button {
+    width: 15vw;
+    height: 10 vh;
+    font-size: 1rem;
+}
